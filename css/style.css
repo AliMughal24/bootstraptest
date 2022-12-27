@@ -1,5 +1,5 @@
 .imp {
-    background: url(../images/about-bg-img.jpg), #64698d no-repeat;
+    background: url(./images/about-bg-img.jpg), #64698d no-repeat;
     height: 100vh;
     background-blend-mode: multiply;
     background-size: cover;
