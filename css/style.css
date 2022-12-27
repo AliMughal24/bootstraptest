@@ -1,0 +1,60 @@
+.imp {
+    background: url(../images/about-bg-img.jpg), #64698d no-repeat;
+    height: 100vh;
+    background-blend-mode: multiply;
+    background-size: cover;
+}
+
+.color {
+    color: #D0D8EA !important;
+}
+
+
+
+.icons1 {
+    color: #5151bb;
+}
+
+.icons2 {
+    color: #0000ffc7;
+}
+
+.icons3 {
+    color: #3fb13f;
+}
+
+.card1:hover {
+    background-color: #e8e8f3ea !important;
+}
+
+.card1 {
+    height: 300px;
+}
+
+.btn-vip {
+    background-color: #6878d6;
+    color: white;
+    margin: auto;
+}
+
+.text--primary {
+    color: #242a56;
+}
+
+.section2 {
+    background-color: #80808008;
+}
+
+.my-container {
+    background-color: #242A56;
+    opacity: 0.85;
+    color: white;
+}
+
+.text {
+    color: #aab1d8;
+}
+
+.icon-size {
+    font-size: 3rem;
+}
